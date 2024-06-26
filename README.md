@@ -1,13 +1,14 @@
-Change Detection with Modified CNNs on OSCD Dataset
-Overview
+# Change Detection with Modified CNNs on OSCD Dataset
+# Overview
 This repository contains code and resources for performing change detection using multiple modified Convolutional Neural Networks (CNNs) on the Onera Satellite Change Detection (OSCD) dataset. Change detection is a critical task in remote sensing, involving the identification of significant changes between satellite images taken at different times.
 
-Features
+# Features
 Implementation of several CNN architectures for change detection.
 Modifications to standard CNNs to enhance performance on change detection tasks.
 Preprocessing and augmentation techniques tailored for the OSCD dataset.
 Evaluation metrics and visualization tools for assessing model performance.
-Dataset
+
+# Dataset
 The Onera Satellite Change Detection (OSCD) dataset is used in this project. It consists of pairs of satellite images acquired at different times along with change masks indicating areas of significant change.
 
 Download the dataset: OSCD Dataset
@@ -69,7 +70,7 @@ VGG-based CNN
 Custom CNN with attention mechanisms
 Each model can be configured and trained using the corresponding configuration files located in the configs directory.
 
-Results
+# Results
 Performance of the models is evaluated using metrics such as:
 
 Precision
@@ -78,11 +79,8 @@ F1-Score
 Intersection over Union (IoU)
 Results and model checkpoints are saved in the results and checkpoints directories, respectively.
 
-Contributing
+# Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
+# Acknowledgements
 The OSCD dataset: OSCD Dataset
