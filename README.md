@@ -2,6 +2,8 @@
 ## Overview
 This repository contains code and resources for performing change detection using multiple modified Convolutional Neural Networks (CNNs) on the Onera Satellite Change Detection (OSCD) dataset. Change detection is a critical task in remote sensing, involving the identification of significant changes between satellite images taken at different times.
 
+![image](https://github.com/AliProjectHub/AI4RS/assets/173925860/e67f23f4-2ecd-41a0-9cba-0d8d3e7fd053)
+
 ## Features
 Implementation of several CNN architectures for change detection.
 Modifications to standard CNNs to enhance performance on change detection tasks.
