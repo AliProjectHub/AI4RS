@@ -11,7 +11,7 @@ Preprocessing and augmentation techniques tailored for the OSCD dataset.
 Evaluation metrics and visualization tools for assessing model performance.
 
 ## Usage
-
+To realize all experiments and reproduce the results and visualizations the three notebooks in this repositry can be used in Colab.
 
 ## Models
 The repository includes implementations of several modified CNN architectures:
